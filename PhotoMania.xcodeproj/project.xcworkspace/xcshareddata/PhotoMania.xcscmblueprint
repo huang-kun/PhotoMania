@@ -1,0 +1,36 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B1CD65082121801E674BE0AD36BC3E18F8A36C45" : 0,
+    "67B0D1F4C7277BA7F7FE6FA41D838A1F17DDAA1D" : 0,
+    "F61CEFF40C38AB39D45E610CD50CF548DAD36D2F" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "274717BC-5886-4F4D-ADA6-B1AAEA1C0502",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B1CD65082121801E674BE0AD36BC3E18F8A36C45" : "PhotoMania\/Archimedes\/",
+    "67B0D1F4C7277BA7F7FE6FA41D838A1F17DDAA1D" : "PhotoMania\/ReactiveCocoaLayout\/",
+    "F61CEFF40C38AB39D45E610CD50CF548DAD36D2F" : "PhotoMania\/500px-iOS-api\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PhotoMania",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "PhotoMania.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ReactiveCocoa\/ReactiveCocoaLayout.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "67B0D1F4C7277BA7F7FE6FA41D838A1F17DDAA1D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/github\/Archimedes.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B1CD65082121801E674BE0AD36BC3E18F8A36C45"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git:\/\/github.com\/500px\/500px-iOS-api.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F61CEFF40C38AB39D45E610CD50CF548DAD36D2F"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+github "Mantle/Mantle" "2.0.7"
+github "SnapKit/Masonry" "v1.0.1"
+github "ReactiveCocoa/ReactiveCocoa" "v2.5"
+github "ReactiveCocoa/ReactiveViewModel" "0.3.3"

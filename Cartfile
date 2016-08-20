@@ -1,0 +1,5 @@
+
+github "ReactiveCocoa/ReactiveCocoa" == 2.5
+github "ReactiveCocoa/ReactiveViewModel"
+github "Mantle/Mantle"
+github "SnapKit/Masonry"
